@@ -4,7 +4,7 @@
 
 
 ![title](./Cd51-1000g.gif)  
-![title]("./Titanic_Deckplans_B_Deck.png")  
+![title](./Titanic_Deckplans_B_Deck.png)  
 
 
 ### Introduction
@@ -55,4 +55,4 @@ The same chart for the "known cabin" feature (i.e. if the passenger's cabin is k
 
 ![title](./Predictions_cabin.png)
 
-This behavior may explain why the models with the highest CV accuracy did not lead to the highest leaderboard accurady.
+This behavior may explain why the models with the highest CV accuracy did not lead to the highest leaderboard accuracy.
