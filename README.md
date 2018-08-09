@@ -44,7 +44,7 @@ The best performing base models (not optimized) are gradient boosting, random fo
 
 <p align="center"><img src="./images/CV_accuracy_models.png" width = "600"></p>
 
-The best algorithm (random forest with limited features) has obtained a 80.8% accuracy on Kaggle's Titanic survivors competition (top 7%). The maximum cross validation accuracy achieved using the training data is 85.4% (using the optimized gradient boosting model with all features). The minimum possible accuracy (obtained with the assumption that every passenger on board died) is around 62%.
+The best model (random forest trained with limited features) has obtained a 80.8% accuracy on Kaggle's Titanic survivors competition (top 7%). The maximum cross validation accuracy achieved using the training data is 85.4% (using the optimized gradient boosting model with all features). The minimum possible accuracy (obtained with the assumption that every passenger on board died) is around 62%.
 
 
 Below is the confusion matrix for the training data (using cross-validation) for the model with the maximum highest CV accuracy. It shows that the accuracy (85.4%), predicted positive value (i.e. probability of survival if predicted survived, 86.1%) and predicted negative value (i.e. probability did not survived if predicted did not survive, 85.1%) are all similar, meaning that the estimate is unbiased. 
