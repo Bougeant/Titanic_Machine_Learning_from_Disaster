@@ -1,6 +1,6 @@
 # Titanic: Machine Learning from Disaster
 
-#### This notebook uses machine learning models to predict survivors on the Titanic with an accuracy of 80.8% on Kaggle's Titanic survivors competition (top 7% among Kaggle competitors)
+#### This notebook uses machine learning models to predict survivors on the Titanic with an accuracy of 80.8% on Kaggle's Titanic survivors competition ([top 7% among Kaggle competitors](https://www.kaggle.com/olivierbo))
 
 <img src="./images/Cd51-1000g.gif">
 
