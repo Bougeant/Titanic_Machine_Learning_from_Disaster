@@ -9,7 +9,7 @@
 
 ## Introduction
 
-The purpose of this project is to predict survivors on the Titanic using machine learning techniques based on training and testing data <a href="https://www.kaggle.com/c/titanic">provided by Kaggle</a> (including passengers name, age, sex, class, cabin, number of relatives, etc.). It was written in Python 3.5 in <a href="https://github.com/Bougeant/Titanic_Machine_Learning_from_Disaster/blob/master/Titanic%20survivors%20prediction.ipynb">this Jupyter notebook</a>. The Titanic prediction competition is recommended for getting started with machine learning on Kaggle.
+The purpose of this project is to predict survivors on the Titanic using machine learning techniques based on training and testing data <a href="https://www.kaggle.com/c/titanic">provided by Kaggle</a> (including passengers name, age, sex, class, cabin, number of relatives, etc.). It was written in Python 3.5 in <a href="https://github.com/Bougeant/Titanic_Machine_Learning_from_Disaster/blob/master/Titanic%20survivors%20prediction.ipynb">this Jupyter notebook</a>.
 
 ## Description
 
